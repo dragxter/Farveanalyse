@@ -12,3 +12,21 @@ bruges her til at blande de primære farver og resultere i sekundære/tertiære 
 
 # Luminance 
 kan vi så egentlig bruge til at finde ud af hvor lys eller mørk vores farver skal være og hvor meget vi gerne vil have noget til at stå frem eller ej.
+
+
+# opgave 2
+
+Blå er en kølig farve, og virker fordybende og rolig. 
+Den blå farve er meget naturlig, og falder godt ind i baggrunden. 
+Vi forbinder ofte blå med havet og himlen.
+
+
+Gul er en varm farve. Vi forbinder den ofte med lykke, sol, gælde og IKEA.
+
+
+Lilla er en blanding af den varme farve rød, og kølige farve blå. 
+Vi forbinder ofte lilla med noget magisk og royal.
+
+
+Turkis er en blanding af blå og en smule gul. Den er symbol på lykke, mod, succes og beskyttelse.
+
